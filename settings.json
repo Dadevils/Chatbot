@@ -1,0 +1,10 @@
+{
+    "server_id": "930233977250410506",
+    "channel_ids": ["930234300236968008"],
+    "protocol_ids": ["protocol_e2.txt"],
+    "timeout":"28",
+    "developer_mode":true,
+
+    "emails": ["", ""],
+    "passwords": ["", ""]
+}
